@@ -63,14 +63,14 @@ nav {
 
 nav > h2 {
   display: inline;
-  margin-left: 15rem;
+/*   margin-left: 15rem; */
 }
 
 nav > a {
   padding-top: 2px;
   float: right;
   text-decoration: none;
-  margin-right: 18rem;
+/*   margin-right: 18rem; */
 }
 
 .search {
